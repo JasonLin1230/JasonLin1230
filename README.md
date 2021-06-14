@@ -1,4 +1,10 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JasonLin1230&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+### Hello world 👋
+
+- 🌱 I’m currently learning and sharing on [my blob](https://godu.ink) ~
+
+- 💬 Talk with me by [Email](mailto:JasonLin1230@163.com) or [Telegram](https://t.me/AboutUU) ~
 
 <!--
 **JasonLin1230/JasonLin1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
