@@ -2,9 +2,9 @@
 
 ### Hello world 👋
 
-- 🌱 I’m currently learning and sharing on [my blob](https://godu.ink)~
+- 🌱 I’m currently learning and sharing on [my blob](https://godu.ink)
 
-- 💬 Talk with me by [Email](mailto:JasonLin1230@163.com) or [Telegram](https://t.me/AboutUU)~
+- 💬 Talk with me by [Email](mailto:JasonLin1230@163.com) or [Telegram](https://t.me/AboutUU)
 
 <!--
 **JasonLin1230/JasonLin1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
